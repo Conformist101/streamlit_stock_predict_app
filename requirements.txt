@@ -1,0 +1,6 @@
+numpy==1.17.0
+streamlit==0.49.0
+plotly==3.10.0
+pandas==0.25.0
+chart_studio==1.0.0
+fbprophet==0.5
