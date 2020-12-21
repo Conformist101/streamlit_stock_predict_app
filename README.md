@@ -19,7 +19,7 @@ Stock prediction app using Streamlit and Facebook prophet
 </ul>
 
 <br>
-<h3>Data link: https://www.kaggle.com/abhishekyana/nse-listed-1384-companies-data <br> creator:Abhishek </h3>
+
 
 <h3> App link: https://stock-predict-app.herokuapp.com/ </h3>
 
