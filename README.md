@@ -1,3 +1,5 @@
+
+
 <h1> <b> STREAMLIT STOCK PREDICT APP  </h1>
 Stock prediction app using Streamlit and Facebook prophet
 
@@ -26,3 +28,5 @@ Stock prediction app using Streamlit and Facebook prophet
 <h3> FB Prophet Docs: https://facebook.github.io/prophet/docs/quick_start.html </h3>
 
 <h3> Streamlit : https://www.streamlit.io/ </h3>
+
+<h3> Run: streamlit run app_try.py </h3>
